@@ -395,28 +395,7 @@ input:active {
       width: 65%;
   }
 }
-.skill_bar .bar .react{
-  width: 60%;
-  animation: react 2s;
-}
-@keyframes react {
-  0%{
-      width: 0%;
-  }100%{
-      width: 60%;
-  }
-}
-.skill_bar .bar .node{
-  width: 60%;
-  animation: node 2s;
-}
-@keyframes node {
-  0%{
-      width: 0%;
-  }100%{
-      width: 60%;
-  }
-}
+
 .skill_bar .bar .dart{
   width: 65%;
   animation: dart 2s;
